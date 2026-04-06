@@ -1,0 +1,7 @@
+{
+  "name": "EventFlow",
+  "description": "Real-time event management and scheduling application.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
